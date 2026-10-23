@@ -1,1 +1,2 @@
 # javarush--test-repo
+Test!
